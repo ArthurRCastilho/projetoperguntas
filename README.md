@@ -4,8 +4,7 @@ Este é o meu primeiro projeto em flutter. Um programa simples, com perguntas e 
 
 ### Imagens do Programa
 
-<img src="./img/IMG_Perguntas.png" alt="Aba de Perguntas" width="400px>
-<img src="./img/IMG_Resultado.png" alt="Aba de resultado" width="400px>
+<img src="img/IMG_Perguntas.png" alt="Aba de Perguntas" width="300px"> <img src="img/IMG_Resultado.png" alt="Aba de resultado" width="300px">
 
 ## Como rodar o projeto?
 
