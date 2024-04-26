@@ -8,9 +8,9 @@ class Questao extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Color.fromRGBO(169, 17, 154, 0.2),
+      color: Color.fromRGBO(255, 255, 255, 1),
       width: double.infinity,
-      margin: EdgeInsets.all(10), // Margem 
+      margin: EdgeInsets.all(10), // Margem
       child: Text(
         texto,
         style: TextStyle(fontSize: 20),

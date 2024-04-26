@@ -12,11 +12,12 @@ class Respostas extends StatelessWidget {
       width: double.infinity,
       child: ElevatedButton(
         style: const ButtonStyle(
-          backgroundColor: MaterialStatePropertyAll<Color>(
-              Color.fromARGB(183, 39, 144, 231)),
-        ),
+            backgroundColor: MaterialStatePropertyAll<Color>(Colors.blue)),
         onPressed: quandoSelecionado,
-        child: Text(resposta),
+        child: Text(
+          resposta,
+          style: TextStyle(color: Colors.white),
+        ),
       ),
     );
   }
