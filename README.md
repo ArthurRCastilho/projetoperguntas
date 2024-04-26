@@ -36,11 +36,13 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
  - Centralizar textos;
  - Dentre outros fundamentos básicos de flutter.
 
-## Quer contribuir com o projeto?
+## Contribua para o respositorio
+
+Entre neste repositorio e crie uma Fork.
 
 Clone o repositorio pelo Prompt de Comando (Terminal no MacOS)
 ```
-git clone https://github.com/ArthurRCastilho/projetoperguntas.git
+git clone https://github.com/[seu_nome]/projetoperguntas.git
 ```
 <br> Abra o repositorio pelo Prompt de Comando
 
@@ -54,8 +56,9 @@ cd {caminho/para_o/Repositorio/projetoperguntas}
 git checkout -b {nome_da_Branch}
 ```
 
-<br> Faça todas as alterações/contribuições necessárias, e faça o commit de tudo que foi feito
+<br> Faça todas as alterações/contribuições que deseja
 
+<br> E depois faça o commit de tudo que foi feito
 ```
 git add .
 git commit -m '{Alterações feitas}'
@@ -68,11 +71,13 @@ git fetch upstream
 git rebase upstream/main
 ```
 
-<br>E por fim basta enviar sua nova branch para o github
+<br>Agora basta enviar sua nova branch para o github
 
 ```
 git push origin {nome da branch}
 ```
+
+Por fim no seu github faça uma pull request
 
 <br>
 
