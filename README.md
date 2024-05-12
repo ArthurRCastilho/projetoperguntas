@@ -18,7 +18,7 @@ Selecione qual dispositovo, ou emulador deseja debugar o software.
 Abra o arquivo<br>
 
 ```
-git clone https://github.com/ArthurRCastilho/projetoperguntas.git
+cd {Localização do repositorio clonado}
 ```
 
 <br>
@@ -64,7 +64,7 @@ git add .
 git commit -m '{Alterações feitas}'
 ```
 
-<br> Envie sua branck para o repositorio forked
+<br> Envie sua branch para o repositorio forked
 
 ```
 git fetch upstream
